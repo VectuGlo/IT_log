@@ -1,2 +1,2 @@
-# IT_log
+# Intensive_IT
 Интенсив айтилогия
